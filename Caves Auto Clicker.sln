@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cavesautoclicker", "cavesautoclicker\cavesautoclicker.csproj", "{C1377414-9316-42AE-AD13-9E42F8727209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1377414-9316-42AE-AD13-9E42F8727209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1377414-9316-42AE-AD13-9E42F8727209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1377414-9316-42AE-AD13-9E42F8727209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1377414-9316-42AE-AD13-9E42F8727209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {235BA33B-5F03-4201-B760-112F195F84E7}
+	EndGlobalSection
+EndGlobal

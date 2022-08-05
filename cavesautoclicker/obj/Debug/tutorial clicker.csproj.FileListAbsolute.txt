@@ -1,0 +1,12 @@
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\bin\Debug\tutorial clicker.exe.config
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\bin\Debug\tutorial clicker.exe
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\bin\Debug\tutorial clicker.pdb
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\bin\Debug\Siticone.UI.dll
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\obj\Debug\tutorial clicker.csproj.AssemblyReference.cache
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\obj\Debug\tutorial_clicker.Form1.resources
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\obj\Debug\tutorial_clicker.Properties.Resources.resources
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\obj\Debug\tutorial clicker.csproj.GenerateResource.cache
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\obj\Debug\tutorial clicker.csproj.CoreCompileInputs.cache
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\obj\Debug\tutorial clicker.csproj.CopyComplete
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\obj\Debug\tutorial clicker.exe
+C:\Users\ahint\source\repos\tutorial clicker\tutorial clicker\obj\Debug\tutorial clicker.pdb

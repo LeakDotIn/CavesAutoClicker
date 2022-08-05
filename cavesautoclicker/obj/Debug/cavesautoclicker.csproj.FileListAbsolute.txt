@@ -1,0 +1,17 @@
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\obj\Debug\cavesautoclicker.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\obj\Debug\cavesautoclicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\obj\Debug\tutorial_clicker.Form1.resources
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\obj\Debug\cavesautoclicker.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\obj\Debug\cavesautoclicker.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\obj\Debug\cavesautoclicker.csproj.CopyComplete
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\bin\Debug\Caves Auto Clicker.exe.config
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\bin\Debug\Caves Auto Clicker.exe
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\bin\Debug\Caves Auto Clicker.pdb
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\bin\Debug\DiscordRPC.dll
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\bin\Debug\DiscordRPC.pdb
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\bin\Debug\DiscordRPC.xml
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\obj\Debug\caves_auto_clicker.Properties.Resources.resources
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\obj\Debug\Caves Auto Clicker.exe
+C:\Users\Emre\source\repos\Caves Auto Clicker\cavesautoclicker\obj\Debug\Caves Auto Clicker.pdb
